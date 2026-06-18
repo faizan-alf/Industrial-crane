@@ -98,7 +98,7 @@ The code was written from scratch in **MPLAB X IDE** using the **XC8 Compiler**.
 * Press the Reset button to recover from a halted collision state.
 
 ## Circuit Diagram
-![image alt](https://github.com/Gokulxu/PIC_PROJECTS/blob/25432d0c4f82eebd7129ab3573b24f573ef2de04/Screenshot%202026-06-16%20195905.png)
+![image alt](https://github.com/faizan-alf/Industrial-crane/blob/080d284fb20692ca171fe612211a43046dbd207c/industrial%20crane.png)
 
 
 
